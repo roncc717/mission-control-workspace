@@ -278,31 +278,6 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-01-01T00:00:02Z"
-    },
-    {
-      "id": "test_webhook_001",
-      "title": "\ud83e\uddea Webhook Test Task",
-      "description": "This is a test task to verify the webhook pipeline. If you see this being processed, everything works!",
-      "status": "in_progress",
-      "project": "default",
-      "tags": [
-        "test"
-      ],
-      "subtasks": [
-        {
-          "id": "sub_001",
-          "title": "Verify webhook delivery",
-          "done": false
-        },
-        {
-          "id": "sub_002",
-          "title": "Confirm agent received task",
-          "done": false
-        }
-      ],
-      "priority": "high",
-      "comments": [],
-      "createdAt": "2026-06-20T13:50:28Z"
     }
   ],
   "projects": [
